@@ -1,24 +1,101 @@
-<h1 align="center">Hi 👋, I'm Karl Gomez</h1>
-<h3 align="center">A passionate frontend developer in training from Cebu</h3>
+<!-- HEADER -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddtbone1&label=Profile%20views&color=0e75b6&style=flat" alt="ddtbone1" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Karl+Gomez+%7C+Bachelor+of+Science+in+Computer+Science;Web+developer+in+training+from+Cebu;Learning+.NET+(ASP.NET+Core%2C+MVC%2C+Razor+Pages)" alt="Typing header" />
 
-- 🔭 I’m currently working on **Customer Relationship Management App**
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:0ea5e9&height=80&section=header&text=Hello%2C%20I'm%20Karl!&fontSize=28&fontColor=ffffff" />
 
-- 🌱 I’m currently learning **ASP.NET Core MVC, EF Core**
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
+  <br/>
 
-- 🤝 I’m looking for help with **Backend**
+  <img src="https://komarev.com/ghpvc/?username=KarlGomez&style=for-the-badge&label=Profile+views" alt="views badge"/>
+</div>
 
-- 💬 Ask me about **MVC**
+---
 
-- 📫 How to reach me **ddotbone1@gmail.com**
+<!-- QUICK INTRO CARD -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h3>🎯 Now</h3>
+        <p>Building a <b>Customer Relationship Management (CRM)</b> web app.</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>📚 Learning</h3>
+        <p><b>ASP.NET Core MVC</b>, <b>EF Core</b>, and clean UI with <b>Tailwind</b>.</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🤝 Looking for</h3>
+        <p>Mentorship on <b>Backend/.NET</b> design & best practices.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/karl gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karl gomez" height="30" width="40" /></a>
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor%20Pages-0A0A0A?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Tailwind-0ea5e9?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddtbone1&show_icons=true&locale=en&layout=compact" alt="ddtbone1" /></p>
+---
+
+<!-- MINI CARDS -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🧩 Ask me about</h3>
+        <ul>
+          <li>MVC and Razor Pages basics</li>
+          <li>Tailwind-first, minimal UI</li>
+          <li>React component structure</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📫 How to reach me</h3>
+        <p>
+          <a href="mailto:ddotbone1@gmail.com">
+            <img src="https://img.shields.io/badge/Email-ddotbone1%40gmail.com-0ea5e9?logo=gmail&logoColor=white" />
+          </a>
+          <br/>
+          <a href="https://facebook.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Cards
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KarlGomez&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlGomez&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+
